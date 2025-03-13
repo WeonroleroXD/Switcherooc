@@ -71,7 +71,6 @@ flex-direction: column;
 /* BARRE --- */
 .switcheroo {
 color: var(--color-text);
-background-color: var(--tbckg);
 font-size: 16px;
 }
 
