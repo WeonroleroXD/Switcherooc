@@ -128,7 +128,7 @@ cursor: default;
 .switcheroo__squircle:before {
 content: "";
 display: block;
-background-color: var(--grey);
+background-color: var(--colorcin);
 border: var(--border);
 border-radius: 50%;
 height: 48px;
